@@ -4,3 +4,8 @@
 
 [template]
   incoming-hooks = ["Ghost"]
+
+[[redirects]]
+  from = "https://admin.yaasou.com/"
+  to = "https://yaasou.herokuapp.com/ghost"
+  status = 200
